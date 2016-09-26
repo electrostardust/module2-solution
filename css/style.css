@@ -14,3 +14,23 @@ h1 { text-align: center;
   color: #16A085
 }
 
+div.container { position:relative;
+       background-color: #EAEDED;
+       top: 10px;
+       width: 100%;
+}
+
+div.row { width: 100%;
+}
+
+#chicken { background-color:#5F6A6A;
+       position:absolute;
+       border:1px solid black;
+       width:25%;
+       margin:1px 1px;
+}
+
+#beef { background-color:#5F6A6A;
+       position:absolute;
+       padding:5px;
+       float: right
