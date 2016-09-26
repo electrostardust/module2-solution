@@ -41,10 +41,7 @@ h2 { display:inline-block;
        padding:20px;
 }
 
-p { top: 15px;
-    left: 15px;
-    right:15px;
-    bottom:15px;
+p { padding:30px;
 }       
 
 @media (min-width: 992px) {
